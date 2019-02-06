@@ -1,2 +1,2 @@
 # Car-insuarance
-Car insuarance app in Js
+Calcuate the price of your car insuarance based on its age!!
